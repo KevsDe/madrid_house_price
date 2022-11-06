@@ -2,7 +2,7 @@
 ![alt text](https://github.com/KevsDe/madrid_house_price/blob/main/static/madrid.jpg?raw=true)
 ## About the project:
 Are you trying to figure out your dream house price in Madrid Spain?  
-With this model, you can provide the features such as neighborhood, bedroom number, etc, and get an approximate price of a house with that characteristics.  
+It is complicated to look to multiple sites to find out an approximate house price, with this model, you can provide the features such as neighborhood, bedroom number, etc, and get an approximate price of a house in Madrid with that characteristic.
 **This project was made for learning and fun purposes and is not a production service**
 
 ## About the data:
