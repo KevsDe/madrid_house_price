@@ -6,10 +6,10 @@ It is complicated to look to multiple sites to find out an approximate house pri
 
 **This project was made for learning and fun purposes and is not a production service**
 
-## About the data:
+## About the data
 I scraped the data from a real estate website in October 2022,  the data has not been updated since then, and the last update is relevant because the house  price fluctuation. 
 
-## About the model:
+## About the model
  - Model trained with 11404 observations
  - Last Update 2022/11/05
  - The model used is Random Forest
