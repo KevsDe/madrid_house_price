@@ -18,13 +18,8 @@ I scraped the data from a real estate website in October 2022,  the data has not
 ## How to run the model
  - Download the files
  - Run train.py
-
-**Option 1**
  - Build Docker container: `docker build -t madrid_house_price .`
  - Run Docker container: `docker run -it -p 9696:9696 madrid_house_price:latest`
  
-**Option 2**
-
-The model is deployed in pythonanywhere: https://kevmp.pythonanywhere.com/
 
 **From Madrid (L)**
